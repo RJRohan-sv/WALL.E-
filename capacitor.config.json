@@ -1,0 +1,7 @@
+{
+  "appId": "com.walle.assistant",
+  "appName": "Wall E",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#15110c" }
+}

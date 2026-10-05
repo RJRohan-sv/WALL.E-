@@ -1,0 +1,16 @@
+{
+  "name": "wall-e-phone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WALL-E / EVE 3D assistant as an Android app",
+  "scripts": { "sync": "cap sync android" },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/browser": "^8.0.5",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/filesystem": "^8.1.4",
+    "@capacitor/share": "^8.0.3",
+    "@capacitor-community/speech-recognition": "^7.0.1"
+  }
+}
